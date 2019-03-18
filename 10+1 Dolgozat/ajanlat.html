@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+	<meta charset="UTF-8">
+	<title>Kávéimádók Reggele Kft.| Ajánlat</title>
+	<style>
+		body {
+		text-align: justify;
+		}
+	</style>
+</head>
+<body>
+<h1>Kávéimádók Reggele Kft.</h1>
+<ul>
+    <li><a href="index.html">Főoldal</a></li>
+    <li><a href="referenciak.html">Referenciák</a></li>
+    <li><a href="arak.html">Árak</a></li>
+    <li><a href="#">Ajánlatkérés</a></li>
+</ul>
+<h2>Ajánlatkérés</h2>
+<form action="http://poganysuli.hu/js/cel.html" method="get">
+    <fieldset>
+        <legend>
+            Ajánlatkéréshez töltse ki az űrlapot!
+        </legend>
+        <p>
+            <label>
+                A cég vagy a magánszemély neve:<br /> 
+				<input type="text" name="nev" /><br />
+            </label>
+        </p>
+        <p>
+            <label>
+                Email címe:<br /> 
+				<input type="email" name="e-mail" />    
+            </label>
+            <br />
+        </p>
+        <p>
+            Kévétípus:<br />
+            <label>
+                    <input type="radio" name="kavetipus" value="iperpresso" checked />
+                    Illy kapszula IPER espresso, 21 adag
+            </label><br />
+            <label>
+                    <input type="radio" name="kavetipus" value="corsinipresso" />
+                    Caffé Corsini Espresso Casa szemes kávé
+            </label><br />
+            <label>
+                    <input type="radio" name="kavetipus" value="iperhosszu" />
+                    Illy kapszula IPER hosszú kávé, 21 adag
+            </label>
+        </p>
+        <p>
+            Mennyiség:<br />
+            <label>
+                    <input type="number" name="felulet" min="1" max="100" value="1" />
+            </label>
+        </p>
+        <p>
+            Egyéb megjegyzés:<br />
+            <textarea name="uzenet" rows="5" cols="40" />
+            </textarea>
+        </p>
+        <p>
+            <input type="submit" value="Ajánlat kérése" />
+        </p>
+    </fieldset>
+</form>
+
+</body>
+</html>
