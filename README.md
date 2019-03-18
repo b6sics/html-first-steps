@@ -1,4 +1,4 @@
 # html-first-steps
-html 1.félév szoftverfejlesztő (2018-19)
+szoftverfejlesztő (2018-19) 1.félév - html
 
 first.gitxt -> html ground frame
