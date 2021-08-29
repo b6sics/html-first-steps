@@ -35,23 +35,8 @@ weboldalak fejlesztése 1.évfolyam 1.félév
 | [12 Stílusok 2b](12%20St%C3%ADlusok%202/szavanna.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/12%20St%C3%ADlusok%202/szavanna.html) | | [.zip](00%20Feladatok/12%20St%C3%ADlusok%202.zip) |
 | [13 Stílusok 3a](13%20St%C3%ADlusok%203/szavannaB.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/13%20St%C3%ADlusok%203/szavannaB.html) | | [.zip](00%20Feladatok/13%20St%C3%ADlusok%203.zip) |
 | [13 Stílusok 3b](13%20St%C3%ADlusok%203/tenger.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/13%20St%C3%ADlusok%203/tenger.html) | | [.zip](00%20Feladatok/13%20St%C3%ADlusok%203.zip) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/14%20Karakterform%C3%A1z%C3%A1s.zip) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/15%20Bekezd%C3%A9sform%C3%A1z%C3%A1s.zip) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00 Feladatok/) |
+| [14 Karakterformázás](14%20Karakterform%C3%A1z%C3%A1s/hangyak.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/14%20Karakterform%C3%A1z%C3%A1s/hangyak.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/14%20Karakterform%C3%A1z%C3%A1s/stilus.css) | [.zip](00%20Feladatok/14%20Karakterform%C3%A1z%C3%A1s.zip) |
+| [15 Bekezdésformázás](15%20Bekezd%C3%A9sform%C3%A1z%C3%A1s/hangyak.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/15%20Bekezd%C3%A9sform%C3%A1z%C3%A1s/hangyak.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/15%20Bekezd%C3%A9sform%C3%A1z%C3%A1s/stilus.css) | [.zip](00%20Feladatok/15%20Bekezd%C3%A9sform%C3%A1z%C3%A1s.zip) |
+| [16 Dobozmodell](16%20Dobozmodell/tanacsok.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/16%20Dobozmodell/tanacsok.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/16%20Dobozmodell/stilus.css) | [.zip](00%20Feladatok/16%20Dobozmodell%201.zip) |
+| [17 Dobozmodell 2](17%20Dobozmodell%202/tanacsok.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/17%20Dobozmodell%202/tanacsok.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/17%20Dobozmodell%202/stilus.css) | [.zip](00%20Feladatok/17%20Dobozmodell%202.zip) |
+
