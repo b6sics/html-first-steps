@@ -11,7 +11,7 @@ weboldalak fejlesztése 1.évfolyam 1.félév
 | [03 Listák 1a](03%20List%C3%A1k/erzekek.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/03%20List%C3%A1k/erzekek.html) | | [.zip](00%20Feladatok/03%20Listák.zip) |
 | [03 Listák 1b](03%20List%C3%A1k/gombak.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/03%20List%C3%A1k/gombak.html) | | [.zip](00%20Feladatok/03%20Listák.zip) |
 | [03 Listák 1c](03%20List%C3%A1k/thorpe.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/03%20List%C3%A1k/thorpe.html) | | [.zip](00%20Feladatok/03%20Listák.zip) |
-| [04 Listák 2a](04%20List%C3%A1k%202/fuszerek.html)) | [.html](https://github.com/b6sics/html-first-steps/blob/master/04%20List%C3%A1k%202/fuszerek.html) | | [.zip](00%20Feladatok/04%20Listák.zip) |
+| [04 Listák 2a](04%20List%C3%A1k%202/fuszerek.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/04%20List%C3%A1k%202/fuszerek.html) | | [.zip](00%20Feladatok/04%20Listák.zip) |
 | [04 Listák 2b](04%20List%C3%A1k%202/italok.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/04%20List%C3%A1k%202/italok.html) | | [.zip](00%20Feladatok/04%20Listák.zip) |
 | [04 Listák 2c](04%20List%C3%A1k%202/kave.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/04%20List%C3%A1k%202/kave.html) | | [.zip](00%20Feladatok/04%20Listák.zip) |
 | [05 Hivatkozások a](05%20Hivatkoz%C3%A1sok/erzekek.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/05%20Hivatkoz%C3%A1sok/erzekek.html) | | [.zip](00%20Feladatok/05%20Hivatkozások.zip) |
