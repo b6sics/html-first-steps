@@ -40,5 +40,5 @@ weboldalak fejlesztése 1.évfolyam 1.félév
 | [16 Dobozmodell](16%20Dobozmodell/tanacsok.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/16%20Dobozmodell/tanacsok.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/16%20Dobozmodell/stilus.css) | [.zip](00%20Feladatok/16%20Dobozmodell%201.zip) |
 | [17 Dobozmodell 2](17%20Dobozmodell%202/tanacsok.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/17%20Dobozmodell%202/tanacsok.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/17%20Dobozmodell%202/stilus.css) | [.zip](00%20Feladatok/17%20Dobozmodell%202.zip) |
 
-[B6SicS](b6sics.github.io)
+[B6SicS](https://b6sics.github.io/)
 
