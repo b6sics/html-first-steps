@@ -17,9 +17,11 @@ weboldalak fejlesztése 1.évfolyam 1.félév
 | [05 Hivatkozások a](05%20Hivatkoz%C3%A1sok/erzekek.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/05%20Hivatkoz%C3%A1sok/erzekek.html) | | [.zip](00%20Feladatok/05%20Hivatkozások.zip) |
 | [05 Hivatkozások b](05%20Hivatkoz%C3%A1sok/kedvenc.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/05%20Hivatkoz%C3%A1sok/kedvenc.html) | | [.zip](00%20Feladatok/05%20Hivatkozások.zip) |
 | [05 Hivatkozások c](05%20Hivatkoz%C3%A1sok/latas.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/05%20Hivatkoz%C3%A1sok/latas.html) | | [.zip](00%20Feladatok/05%20Hivatkozások.zip) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/06%20K%C3%A9pek.zip) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/07%20%C5%B0rlapok.zip) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/08%20%C5%B0rlapok.zip) |
+| [06 Képek](06%20K%C3%A9pek/ausztria.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/06%20K%C3%A9pek/ausztria.html) | | [.zip](00%20Feladatok/06%20K%C3%A9pek.zip) |
+| [07 Űrlapok 1a](07%20%C5%B0rlapok/adatok.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/07%20%C5%B0rlapok/adatok.html) | | [.zip](00%20Feladatok/07%20%C5%B0rlapok.zip) |
+| [07 Űrlapok 1b](07%20%C5%B0rlapok/user.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/07%20%C5%B0rlapok/user.html) | | [.zip](00%20Feladatok/07%20%C5%B0rlapok.zip) |
+| [08 Űrlapok 2a](08%20%C5%B0rlapok%202/fodrasz.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/08%20%C5%B0rlapok%202/fodrasz.html) | | [.zip](00%20Feladatok/08%20%C5%B0rlapok.zip) |
+| [08 Űrlapok 2b](08%20%C5%B0rlapok%202/pizza.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/08%20%C5%B0rlapok%202/pizza.html) | | [.zip](00%20Feladatok/08%20%C5%B0rlapok.zip) |
 | []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/09%20T%C3%A1bl%C3%A1zatok.zip) |
 | []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/10%20Gyakorl%C3%A1s.zip) |
 | []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/10%2B1%20Dolgozat.zip) |
