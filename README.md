@@ -25,8 +25,10 @@ weboldalak fejlesztése 1.évfolyam 1.félév
 | [09 Táblázatok a](09%20T%C3%A1bl%C3%A1zatok/elettartam.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/09%20T%C3%A1bl%C3%A1zatok/elettartam.html) | | [.zip](00%20Feladatok/09%20T%C3%A1bl%C3%A1zatok.zip) |
 | [09 Táblázatok b](09%20T%C3%A1bl%C3%A1zatok/orarend.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/09%20T%C3%A1bl%C3%A1zatok/orarend.html) | | [.zip](00%20Feladatok/09%20T%C3%A1bl%C3%A1zatok.zip) |
 | [10 Gyakorlás](10%20Gyakorl%C3%A1s/index.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/10%20Gyakorl%C3%A1s/index.html) | | [.zip](00%20Feladatok/10%20Gyakorl%C3%A1s.zip) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/10%2B1%20Dolgozat.zip) |
-| []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/11%20St%C3%ADlusok%201.zip) |
+| [10+1 Dolgozat](10%2B1%20Dolgozat/index.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/10%2B1%20Dolgozat/index.html) | | [.zip](00%20Feladatok/10%2B1%20Dolgozat.zip) |
+| [11 Stílusok 1a](11%20St%C3%ADlusok/pl1.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/11%20St%C3%ADlusok/pl1.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/11%20St%C3%ADlusok/proba.css) | [.zip](00%20Feladatok/11%20St%C3%ADlusok%201.zip) |
+| [11 Stílusok 1b](11%20St%C3%ADlusok/pl2.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/11%20St%C3%ADlusok/pl2.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/11%20St%C3%ADlusok/proba.css) | [.zip](00%20Feladatok/11%20St%C3%ADlusok%201.zip) |
+| [11 Stílusok 1c](11%20St%C3%ADlusok/pl3.html) | [.html](https://github.com/b6sics/html-first-steps/blob/master/11%20St%C3%ADlusok/pl3.html) | [.css](https://github.com/b6sics/html-first-steps/blob/master/11%20St%C3%ADlusok/proba.css) | [.zip](00%20Feladatok/11%20St%C3%ADlusok%201.zip) |
 | []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/12%20St%C3%ADlusok%202.zip) |
 | []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/13%20St%C3%ADlusok%203.zip) |
 | []() | [.html](https://github.com/b6sics/html-first-steps/blob/master/) | [.css]() | [.zip](00%20Feladatok/14%20Karakterform%C3%A1z%C3%A1s.zip) |
